@@ -21,7 +21,7 @@ Des appareils photos spécialisés dans la capture d'images de haute qualité da
 ## Comment est-elle amenée dans divers secteurs ?
 Pour proposer des contenus audiovisuels divers sur le thème de l'astronomie qui sont présentées dans les **planétariums** ou autres films qui sont en lien avec la nature offerts à des fins scientologiques.
 
-![image d'une présentation audiovisuelle dans un dôme](http://blog.davidgiralphoto.com/wp-content/uploads/2014/02/architectural-photography-montreal-planetarium-rio-tinto-alcan-010.jpg)
+![image d'une présentation audiovisuelle dans un dôme](https://www.fddb.org/wp-content/themes/fddb/assets/images/fulldome_2_web.jpg)
 
 Pour exhiber, dans des **musées**, des oeuvres de certains créateurs utilisant cette technologie comme intermédiaire.  
 

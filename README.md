@@ -35,11 +35,14 @@ Pour offrir des scéances de **méditation** qui proposent des projections d'atm
 
 ![image d'une scéance de méditation dans un dôme](https://lumenandforge.com/wp-content/uploads/2021/11/what-is-360-degree-projection-mapping-and-how-is-it-useful-capital-one.jpg)
 
-### Sources
-[Find, be Found and have Fun in Fulldome](https://www.fddb.org/fulldome/)
-[Wikipedia](https://en.wikipedia.org/wiki/Fulldome)
-[Lumen & Forge](https://lumenandforge.com/360-video-projection-how-its-created-and-why-its-worth-your-time/)
-
 Pour profiter le public de cette technologie lors d'**évènements spéciaux** ainsi que des **fêtes**. 
 
 ![image d'un évènement dans un dôme](https://lumenandforge.com/wp-content/uploads/2021/11/360-projector-atlanta-dome-superbowl-projection-mapping.jpg)
+
+
+### Sources
+[Find, be Found and have Fun in Fulldome](https://www.fddb.org/fulldome/)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fulldome)
+
+[Lumen & Forge](https://lumenandforge.com/360-video-projection-how-its-created-and-why-its-worth-your-time/)

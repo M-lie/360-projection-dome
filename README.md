@@ -40,7 +40,7 @@ Pour profiter le public de cette technologie lors d'**évènements spéciaux** a
 ![image d'un évènement dans un dôme](https://lumenandforge.com/wp-content/uploads/2021/11/360-projector-atlanta-dome-superbowl-projection-mapping.jpg)
 
 
-### Sources
+## Sources
 [Find, be Found and have Fun in Fulldome](https://www.fddb.org/fulldome/)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Fulldome)

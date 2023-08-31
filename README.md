@@ -13,3 +13,10 @@ Les systèmes à un seul projecteur exploite une source vidéo, unique ou mixte,
 Des appareils photos spécialisés dans la capture d'images de haute qualité dans toutes les directions pour obtenir son environnement dans son entièreté sont exploités dans la création de vidéos d'action en direct. Le contenu animé quant à lui diffère, car il a recours à beaucoup de puissance informatique de par les logiciels qu'il nécessite afin de pouvoir créer l'effet escompté que par sa qualité de contenu. La projection dispose de plusieurs projecteurs mélangés pour concevoir une image qui ne produit aucun infort chez le spectateur de par son incohérence. On empêche ce problème en s'assurant de donner la position et l'angle exacte de chaque projecteur qui ont été déterminées minutieusement préalablement. L'incorporation d'objets 3D ou des surfaces irrégulières dans l'expérience sont possible avec des techniques avancées de mappage de projection. 
 
 ## Comment est-elle amenée dans divers secteurs ?
+Pour proposer des contenus audiovisuels divers sur le thème de l'astronomie qui sont présentées dans les **planétariums** ou autres films qui sont en lien avec la nature offerts à des fins scientologiques. 
+Pour exhiber, dans des **musées**, des oeuvres de certains créateurs utilisant cette technologie comme intermédiaire.  
+Pour présenter des marques ou des produits lors de **présentations d'entreprises**. 
+Pour se distinguer des autres entreprises dans une salle remplie de stands et de distractions lors de **salons professionnelles**.
+Pour recréer un environnement naturel qui se rapproche fortement de la réalité donnant un regard au public qui se veut leur procurer un sentiment de distance conflictuelle avec son espace, cela dans un but **éducatif**.
+Pour offrir des scéances de **méditation** qui proposent des projections d'atmosphères apaisantes.
+Pour profiter le public de cette technologie lors d'**évènements spéciaux** ainsi que des **fêtes**. 
